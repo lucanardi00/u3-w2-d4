@@ -1,0 +1,28 @@
+/* MyFooter.module.css */
+.footerIcon {
+  color: #838383;
+}
+
+.footerLinks {
+  font-size: 0.8em;
+}
+
+.footerLinks p {
+  margin-bottom: 0.3em;
+  color: #838383;
+}
+
+.footerLinks a {
+  color: #838383;
+  text-decoration: none;
+}
+
+.footerButton {
+  color: #838383;
+  border-color: #838383;
+}
+
+.copyright {
+  color: #838383;
+  font-size: 0.6em;
+}
